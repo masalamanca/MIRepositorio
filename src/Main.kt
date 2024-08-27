@@ -1,4 +1,5 @@
 fun main() {
+<<<<<<< HEAD
     val cabinas = mutableListOf<Cabina>()
 
     while (true) {
